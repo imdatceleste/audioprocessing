@@ -18,7 +18,7 @@ _number_re = re.compile(r'[0-9]+')
 """
 Numeric to word convertor in Spanish
 
-Copyright (c) 2017 Munich Artificial Intelligence Laboratories GmbH (M-AILABS)
+Copyright (c) 2019 Imdat Solak
 
 Created: 2017-02-25 ??:?? CET, KA
 """

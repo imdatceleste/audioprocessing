@@ -17,7 +17,7 @@ logger = logging.getLogger(os.path.basename(sys.argv[0]))
 """
 Sound Audio File Trimmer
 
-Copyright (c) 2018 Munich Artificial Intelligence Laboratories GmbH (M-AILABS)
+Copyright (c) 2019 Imdat Solak
 
 Created: 2018-01-16 ??:?? CET, KA
 

@@ -15,7 +15,7 @@ logger = logging.getLogger(__name__)
 """
 Sound Audio File Splitter
 
-Copyright (c) 2017 Munich Artificial Intelligence Laboratories GmbH (M-AILABS)
+Copyright (c) 2019 Imdat Solak
 
 Created: 2017-12-20 ??:?? CET, KA
 

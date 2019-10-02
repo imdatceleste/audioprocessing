@@ -25,8 +25,8 @@ noisify.py:
     the noise-file a segment that is then added to the audio-file
     Random-SEED is set to 42, in order to have reproducible results.
 
-Copyright (c) 2018 MUNICH ARTIFICIAL INTELLIGENCE LABORATORIES GmbH
-All rights reserved.
+Copyright (c) 2019 Imdat Solak
+See LICENSE.txt for the license
 
 Created: 2017-11-16 12:00 CST, KA
 Updated: 2018-02-24 18:00 CET, ISO
